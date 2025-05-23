@@ -1,0 +1,9 @@
+.env
+.git
+.gitignore
+*.log
+__pycache__
+.pytest_cache
+volumes/
+README.md
+.env.example
